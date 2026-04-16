@@ -42,7 +42,7 @@ project-folder/
 1. Clone the repository:
 
 ```id="l6p7s2"
-git clone https://github.com/your-username/bootstrap-tab-panel.git
+git clone https://roobandev.github.io/bootstrap-tab-panel/
 ```
 
 2. Open the project folder
